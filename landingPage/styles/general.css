@@ -8,22 +8,16 @@ body{
     background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
 
 }
-.headerLogo, .contentLogo{
-    border-radius: 50%;
-}
-.headerLogo{
-    padding: 24px;
-    height: 72px;
-}
-.footerGrand-Logo{
-    width: 80%;
-}
+
+
 p,h1,h2{
+    font-weight: 400;
     color: white;
 }
-header{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-around;
+strong{
+    font-weight: 500;
+}
+
+a{
+    color: white;
 }
